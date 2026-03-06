@@ -1,4 +1,4 @@
-# KeyLogger 
+
 # KeyLogger 
 
 ## About the Project
@@ -9,8 +9,6 @@ This is a simple C# Console Application. I created this project to understand ho
 * .NET Framework
 * Visual Studio
 
-## Important Disclaimer ⚠️
-**This project was created for educational purposes only.** It is designed to learn about system-level programming and event handling in C#. It must not be used for any malicious activities or without explicit permission.
 
 ## How to Run
 1. Clone the repository to your local machine.
